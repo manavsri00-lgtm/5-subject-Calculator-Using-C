@@ -16,13 +16,10 @@ A simple C program that calculates the total marks and percentage of a student b
 
 ## Sample Output
 Enter marks of 5 subjects:
-80
-75
-90
-85
-70
+97
+98
+65
+65
+98
 
-Total Marks = 400
-Percentage = 80.00%
-                
-     
+Percentage of 5 subj is : 84.599998
